@@ -1,2 +1,1 @@
-# latihan-branch
-**changed for merge**
+JUST FOR LATIHANN
