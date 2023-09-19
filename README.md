@@ -1,2 +1,2 @@
 # latihan-branch
-**changed for merge**
+**new features**
